@@ -7,7 +7,7 @@ In this project I chose to analyze the video games reviews dataset. I used PySpa
 
 # Results
 
-	## Answers to the following questions:
+## Answers to the following questions:
 
 1- How many Vine reviews and non-Vine reviews were there?
 
